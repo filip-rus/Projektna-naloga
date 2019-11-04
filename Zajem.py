@@ -53,4 +53,4 @@ def zapisi_csv(slovarji, imena_polj, ime_datoteke):
         for slovar in slovarji:
             writer.writerow(slovar)
 
-zapisi_csv(nesreče, ["datum", "kraj", "operator", "model", "registracija", "stevilo_mrtvih"], "csv_datoteka")
+zapisi_csv(nesreče, ["datum", "kraj", "operator", "model", "registracija", "stevilo_mrtvih"], "csv_datoteka.csv")
