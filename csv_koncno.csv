@@ -1,4 +1,4 @@
-datum,kraj,operator,model,registracija,stevilo_mrtvih
+datum,kraj,družbe,model,registracija,žrtve/potniki(na tleh)
 
 17 Sep 1908,"Fort Myer, Virginia",Military - U.S. Army,Wright Flyer III,?,1/2(0)
 
@@ -52,7 +52,7 @@ datum,kraj,operator,model,registracija,stevilo_mrtvih
 
 19 Jul 1919,"Dix Run, Pennsylvania",US Aerial Mail Service,De Havilland DH-4,82,1/1(0)
 
-21 Jul 1919,"Chicago, Illinois",Wingfoot Air Express Goodyear Tire,FD Type Dirigible,?,3/?(10)
+21 Jul 1919,"Chicago, Illinois",Wingfoot Air Express Goodyear Tire,FD Type Dirigible,?,3/5(10)
 
 02 Aug 1919,"Verona, Italy",Caproni Company,Caproni Ca.48,?,14/14(0)
 
@@ -110,9 +110,13 @@ datum,kraj,operator,model,registracija,stevilo_mrtvih
 
 22 Feb 1921,"Elko, Nevada",US Aerial Mail Service,De Havilland DH-4,67,1/1(0)
 
+06 Apr 1921,"Point Cook, Australia",Military - Royal Australian Air Force,Avro 504,H3021,2/2(0)
+
 21 Apr 1921,"Mitchel Field, NY",US Aerial Mail Service,De Havilland DH-4,160,1/1(0)
 
 29 Apr 1921,"Cleveland, Ohio",US Aerial Mail Service,De Havilland DH-4,196,1/1(0)
+
+17 May 1921,"Rock Springs, Wyoming",US Aerial Mail Service,De Havilland DH-4,176,1/1(0)
 
 14 Aug 1921,"Toulouse, France",Aeropostale,Breguet 14,F-ALBI,2/2(0)
 
@@ -212,6 +216,8 @@ datum,kraj,operator,model,registracija,stevilo_mrtvih
 
 12 Feb 1926,"Montpelier, Ohio",US Aerial Mail Service,Curtiss Carrier Pigeon,602,1/1(0)
 
+08 Mar 1926,"Staaken, Germany",Deutche Lufthansa, Junkers F-13,D-290 D-290,1/1(0)
+
 31 May 1926,English Channel,Air Union,Breguet 14,F-ADAI,1/1(0)
 
 03 Jul 1926,"Rossaugpt, Czechoslovakia",Compagnie Internationale de Navigation Aérienne,Caudron C-61,F-AFBT,6/6(0)
@@ -240,6 +246,8 @@ datum,kraj,operator,model,registracija,stevilo_mrtvih
 
 24 Mar 1927,"Tambo, Qld, Australia",Qantas,de Havilland DH-9C,G-AUED,3/3(0)
 
+15 Apr 1927,"King Hill, Idaho",Varney Air Lines,Swallow,?,1/1(0)
+
 22 Apr 1927,"Floh, Germany",Deutsche Lufthansa,Fokker FG III,D-729,2/2(0)
 
 22 Apr 1927,"Goshen, Indiana",US Aerial Mail Service,Douglas M-4,626,1/1(0)
@@ -247,6 +255,10 @@ datum,kraj,operator,model,registracija,stevilo_mrtvih
 02 May 1927,"Algiers, Algeria",Air Union,SPCA Meteore 63,F-AIFN,1/3(0)
 
 27 Jul 1927,"Amoneburg, Germany",Deutsche Lufthansa,Junkers F-13,D-206,5/5(0)
+
+22 Aug 1927,"Sevenoaks, England",KLM Royal Dutch Airlines,Fokker F-VIII,H-NADU H-NADU,1/11(0)
+
+03 Sep 1927,"Willington, Connecticut",Colonial Air Transport,Fokker Universal,NC52 NC52,1/1(0)
 
 17 Sep 1927,"Hadley, New Jersey",Reynolds Airways,Fokker F-VII,NC776,7/12(0)
 
@@ -262,6 +274,8 @@ datum,kraj,operator,model,registracija,stevilo_mrtvih
 
 16 Nov 1927,Over the Gulf of Finland,Aero O-Y,Junkers F-13,K-SALD,6/6(0)
 
+29 Nov 1927,"Corunna, Indiana",National Air Transport,Douglas M-4,NC62 NC1062,1/1(0)
+
 28 Dec 1927,"Almeria, Spain",Aeropostale,Breguet 14,F-AFGS,1/1(0)
 
 31 Dec 1927,"Near Marseille,France",Latecoere Airlines,Latécoère 23 (flying boat),F-AIHP,5/5(0)
@@ -270,7 +284,9 @@ datum,kraj,operator,model,registracija,stevilo_mrtvih
 
 16 Jan 1928,"Solis, Uruguay",Aeropostale,Latecoere 25,F-AIKG,2/2(0)
 
-22 Jan 1928,"Tarragona, Spain",Aeropostale,Breguet 14,F-AHEQ,2/2(0)
+22 Jan 1928,"L'Hospitalet, Ariège",Aeropostale,Breguet 14,F-AHEQ,1/1(0)
+
+22 Jan 1928,"Tarragona, Spain",Aeropostale,Breguet 14,F-AHEQ,1/1(0)
 
 27 Jan 1928,"Almeria, Spain",Aeropostale,Breguet 14,F-AFHN,1/1(0)
 
@@ -278,7 +294,11 @@ datum,kraj,operator,model,registracija,stevilo_mrtvih
 
 11 Mar 1928,"Off Cape Griz Nez, France",Air Union,Farman F-60 Goliath,F-AEFC,2/2(0)
 
+17 Apr 1928,"Federal, Wyoming",Boeing Air Transport,Boeing 40,NC282 NC282,1/2(0)
+
 19 Apr 1928,"Minuesa, Spain",Iberia Airlines,Rohrbach Roland,M-CCCC,9/9(0)
+
+07 May 1928,"Florianopolis, Brazil",Aeropostale,Latecoere 26,F-AIMQ,1/5(0)
 
 12 May 1928,"Dearborn, Minnesota",Ford Air Freight Inc.,Ford 4,NC1492,2/2(0)
 
@@ -303,6 +323,8 @@ datum,kraj,operator,model,registracija,stevilo_mrtvih
 04 Sep 1928,"Pocatello, Idaho",National Parks Airways,Fokker Super Universal,NC7242,7/7(0)
 
 06 Sep 1928,"Heroldbach, Germany",Deutsche Lufthansa,Fokker FG III,D-180,3/3(0)
+
+04 Oct 1928,"Gerona, Spain",Aeropostale,Breguet 14,F-AEEJ F-AEEJ,3/3(0)
 
 18 Oct 1928,"Polk, Pennsylvania",National Air Transport,Douglas M-4,NC1064,1/1(0)
 
@@ -336,7 +358,9 @@ datum,kraj,operator,model,registracija,stevilo_mrtvih
 
 25 Jan 1929,"Near Corfu, Greece",Aeroespresso,CMASA Wal,I-AZDA,2/9(0)
 
-31 Jan 1929,"Morgantown, West Virginia",Skyline Transportation Company,Travel Air 4000,NC6480,1/1(0)
+31 Jan 1929,"Off Morocco,Aeropostale",Latecoere 26,F-AIMU F-AIMU,2/2(0)
+
+31 Jan 1929,"Morgantown, West Virginia",Skyline Transportation Company,Travel Air 4000,NC6480,1/1(0)	
 
 17 Mar 1929,"Newark, New Jersey",Colonial Western Airlines,Ford 5-AT-B Tri Motor,NC7683,14/15(0)
 
@@ -542,7 +566,9 @@ datum,kraj,operator,model,registracija,stevilo_mrtvih
 
 21 Mar 1932,"Steubenville, Ohio",Trans Continental and Western Air,Northrop Alpha 3,NC966Y,1/1(0)
 
-31 Mar 1932,"Bedford, Ohio",National Air Transport,Boeing 95,NC191E,1/1(0)
+29 Mar 1932,"Rutbah Wells, Iraq",Air Orient,Farman F-190,F-AJDP F-AJDP,3/3(0)¸
+
+31 Mar 1932,"Bedford, Ohio",National Air Transport,Boeing 95,NC191E,1/1(0)	
 
 21 Apr 1932,"Fort Wayne, Indiana",Transamerica Airlines,Stearman C-3MB,NC6412,1/1(0)
 
@@ -825,6 +851,8 @@ datum,kraj,operator,model,registracija,stevilo_mrtvih
 28 Jul 1936,"Kulyab, Tajikistan",Aeroflot,Tupolev ANT-9,?,6/6(0)
 
 31 Jul 1936,"Off Channel Islands, Jersey",Guernsey Airways,Saro A-19 Cloud,G-ABXW,10/10(0)
+
+02 Aug 1936,"Mazamet, France",Air France,Wibault 280,F-ANBL F-ANBL,3/3(0)
 
 03 Aug 1936,"Ciudad Serdan,Mexico",Mexicana,Lockheed 9 Orion,XA-BAY,1/1(0)
 
@@ -2122,6 +2150,8 @@ datum,kraj,operator,model,registracija,stevilo_mrtvih
 
 05 Dec 1948,"Kiangwan, China",Central Air Transport,Curtiss C-46,XT-538,9/40(0)
 
+06 Dec 1948,"Milano,Italy",Avio Linee Italiane Avio Linee Italiane,Douglas C-47,I-ETNA,7/7(0)     
+
 12 Dec 1948,"Taipei, Taiwan",China National Aviation Corporation,Douglas DC-3,?,2/10(0)
 
 15 Dec 1948,"Near Bogata, Colombia",LANSA,Douglas C-47,C-310,30/30(0)
@@ -2341,6 +2371,8 @@ datum,kraj,operator,model,registracija,stevilo_mrtvih
 28 Jul 1950,"Porte Alegre, Brazil",Panair do Brasil,Lockheed 049 Constellation,PP-PCG,50/50(0)
 
 29 Jul 1950,"Tunbukta, Algeria",Cie Air Transport,Bristol 170 Freighter 21,F-BENF,26/26(0)
+
+30 Jul 1950,"Algrete, Brazil",SAVG,?,?,10/?(?)      
 
 30 Jul 1950,"Karaganda, Russia",Aeroflot,Ilyushin IL-12,L-1803,25/25(0)
 
@@ -3870,6 +3902,8 @@ datum,kraj,operator,model,registracija,stevilo_mrtvih
 
 14 Jan 1963," Tazovskoye, Russia",Aeroflot,Lisunov LI-2,CCCP-71186,12/25(0)
 
+14 Jan 1963,"Kaktovik (Barter Island), Alaska",Wien,Beechcraft AT-11 Kansan,N65458,5/6(0)
+
 15 Jan 1963,"Sao Paulo, Brazil",Cruzeiro,Convair CV-240-0,PP-CEV,6/45(7)
 
 17 Jan 1963,"Great Salt Lake, Utah",West Coast Airlines,Fairchild F-27,N2703,3/3(0)
@@ -3896,9 +3930,9 @@ datum,kraj,operator,model,registracija,stevilo_mrtvih
 
 05 Mar 1963,"Camden, Tennesee",Private,Piper PA-24-250 Comanche,N7000P,4/4(0)
 
-15 Mar 1963,"Near Tacora, Volcano, Peru",Lloyd Aereo Boliviano,Douglas DC-6B,CP-707,39/39(0)
-
 15 Mar 1963,"Near Karai, Iran",Middle East Airlines,Avro 685 York C1,OD-ACZ,4/4(0)
+
+15 Mar 1963,"Near Tacora, Volcano, Peru",Lloyd Aereo Boliviano,Douglas DC-6B,CP-707,39/39(0)
 
 20 Mar 1963,"Monte Matto, Italy",Saudi Arabian Royal Flight,de Havilland Comet 4C,SA-R-7,18/18(0)
 
@@ -3916,9 +3950,9 @@ datum,kraj,operator,model,registracija,stevilo_mrtvih
 
 12 May 1963,"Near Ayayda, Egypt",United Arab Airlines,Douglas DC-3,SU-AJX,34/34(0)
 
-03 Jun 1963,"Pacific Ocean, 116 miles WSW of Annette Island, Alaska",Northwest Orient Airlines,Douglas DC-7CF,N290,101/101(0)
-
 03 Jun 1963,"Pathankot, India",Indian Airlines,Douglas C-47,VT-AUL,29/29(0)
+
+03 Jun 1963,"Pacific Ocean, 116 miles WSW of Annette Island, Alaska",Northwest Orient Airlines,Douglas DC-7CF,N290,101/101(0)
 
 10 Jun 1963,"Mt. Kaolokung, Burma",Union of Burma Airways,Douglas DC-3,XY-ACS,20/20(0)
 
@@ -4042,6 +4076,8 @@ datum,kraj,operator,model,registracija,stevilo_mrtvih
 
 27 May 1964,"Itapecerica da Serra, Brazil",VASP,Douglas C-47-DL (DC-3),PP-SPZ,3/3(0)
 
+13 Jun 1964,"Jeddah, Saudia Arabia",Saudi Arabian Airlines,Douglas C-47A,HZ-AAN,2/2(0)
+
 20 Jun 1964,"Taichung, Taiwan",Civil Air Transport,Curtiss C-46-CU,B-908,57/57(0)
 
 21 Jun 1964,"Off Palma de Mallorca, Spain",TASSA,Douglas DC-3,EC-AQH,1/28(0)
@@ -4139,6 +4175,8 @@ datum,kraj,operator,model,registracija,stevilo_mrtvih
 14 Apr 1965,"Jersey, Channel Islands, UK",British United Airways,Douglas C-47B,G-ANTB,26/27(0)
 
 23 Apr 1965,"Near Seattle, Washington",Aaxico Airlines,Douglas DC-6A,N6541C,5/5(0)
+
+05 May 1965,Canary Islands,Iberia Airlines,Lockheed 1049G-55 Super Constellation,EC-AIN,30/49(0)
 
 20 May 1965,"Cairo, Egypt",Pakistan International Airlines,Boeing B-720-040B,AP-AMH,121/127(0)
 
@@ -5549,6 +5587,8 @@ datum,kraj,operator,model,registracija,stevilo_mrtvih
 28 Jul 1976,"Bratislava, Czechoslovakia",Ceskoslovenske Aerolinie,Ilyushin IL-18L,OK-NAB,76/79(0)
 
 02 Aug 1976,"Near Tehran, Iran",Korean Airlines,Boeing 707-373,HL7412,5/5(0)
+
+09 Aug 1976,"Moron AFB, Spain",Military - Spanish Air Force,Douglas C-54E,T4/11-352,12/32(0)
 
 15 Aug 1976,"Andes Mountains, Ecuador",SAETA,Vickers Viscount 785D,HC-ARS,59/59(0)
 
@@ -6970,6 +7010,8 @@ datum,kraj,operator,model,registracija,stevilo_mrtvih
 
 13 Aug 1989,"Janice, Mississippi",Private,Cessna 177RG,N1976Q,2/2(0)
 
+15 Aug 1989,", China",China Eastern Airlines,Antonov AN-24RV,B-3417,34/40(0)
+
 25 Aug 1989,"Near Gilgit, Pakistan",Pakistan International Airlines,Fokker F-27 Friendship 200,AP-BBF,54/54(0)
 
 03 Sep 1989,"Near Sao Jose do Xingu, Brazil",Varig,Boeing B-737-241,PP-VMK,13/54(0)
@@ -6987,6 +7029,8 @@ datum,kraj,operator,model,registracija,stevilo_mrtvih
 20 Sep 1989,"Fairbanks, Alaska",Boeing KC-135E,Military - U.S. Air Force,57-1481,2/7(0)
 
 20 Sep 1989,"La Guardia Airport, New York, New York",USAir,Boeing B-737-401,N416US,2/63(0)
+
+21 Sep 1989,Afghanistan,Military - Afghan Republican Air Force,Mil Mi-8 (helicopter),?,26/26(0)
 
 21 Sep 1989,"Near Baghran, Afghanistan",Military - Afghan Republican Air Force,Mil Mi-17 ( helicopter),?,24/24(0)
 
@@ -7259,6 +7303,8 @@ datum,kraj,operator,model,registracija,stevilo_mrtvih
 11 Sep 1991,"Near Eagle Lake, Texas",Continental Express,Embraer 120RT Brasilia,N33701,14/14(0)
 
 16 Sep 1991,"Petropavlosk, USSR",Aeroflot,Antonov AN-72,CCCP-74002,13/13(0)
+
+17 Sep 1991,"Djibouti City, Djibouti",Ethiopian Airlines,Lockheed L-100-30 Hercules,ET-AJL,4/4(0)
 
 18 Sep 1991,"Belvedere Center, Vermont",Canair Cargo,Convair CV-580,C-FICA,2/2(0)
 
@@ -8790,6 +8836,8 @@ datum,kraj,operator,model,registracija,stevilo_mrtvih
 
 10 Feb 2004,"Sharjah, United Arab Emirates",Kish Airlines,Fokker F-50,EP-LCA,43/46(0)
 
+04 Mar 2004,"Bakou, Azerbaijan",Azov Avia Airlines,Ilyushin II-76,UR-ZVA,3/7(0)
+
 16 Mar 2004,"Tonopah, Nevada",Military - United States Air Force,Beechcraft 1900C,N27RA,5/5(0)
 
 21 Mar 2004,"Pyote, Texas",Air Ambulance - Med-Trans Corp.,Bell 407,N502MT,4/5(0)
@@ -8891,6 +8939,8 @@ datum,kraj,operator,model,registracija,stevilo_mrtvih
 16 Feb 2005,"Near Pueblo, Colorado",Circuit City Stores - Charter,Cessna 560 Citation V,N500AT,8/8(0)
 
 22 Feb 2005,"Bimin, Papua, New Guinea",Missionary Aviation Fellowship,de Havilland DHC-6 Twin Otter 300,P2-MFQ,2/13(0)
+
+22 Feb 2005,"Sarmi, Indonesia",Indonesian National Police",CASA 212 Aviocar,P-2032 P-2032,15/18(0)     
 
 08 Mar 2005,"Chrallave, Venezuela",Air Global,Cessna 500 Citation I,YV-21CP,2/2(0)
 
@@ -9049,6 +9099,8 @@ datum,kraj,operator,model,registracija,stevilo_mrtvih
 08 Mar 2007,"Princeville, Hawaii",Heli-USA Airways,Aerospatiale AS350BA Rotocraft,N354NT,4/7(0)
 
 11 Mar 2007,"Hanea, Kauai, Hawaii",Inter-Island,Mc Donnell Douglas 369FF Rotocraft,N911VC,1/5(0)
+
+14 Mar 2007,"Fazenda Nossa Senhora de Lourdes, Brazil",Bahia Taxi Aéreo Bahia Taxi Aéreo Bahia Taxi Aéreo,Rockwell 500S Shrike Commander,PP-SEC,4/4(0)      
 
 17 Mar 2007,"Samara, Russia",UTAir Airlines,Tuolev 134AK,RA-65021,6/57(0)
 
