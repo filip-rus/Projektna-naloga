@@ -54,6 +54,15 @@ vzorec_brez_tal = (
     r'(?P<stevilo_mrtvih>.*)/(?P<potniki>.*)\(' #zajamemo stevilo mrtvih glede na stevilo potnikov brez umrlih na tleh
 )
 
+vzorec_mesec = (
+    r'<td  width="85" align="left" valign="top"><font face="Arial" size="2"><A HREF=".*.htm">'
+    r'\d\d (?P<mesec>.*) ' #zajamemo samo mesec
+    )
+vzorec_leto = (
+    r'<td  width="85" align="left" valign="top"><font face="Arial" size="2"><A HREF=".*.htm">'
+    r'\d\d ... (?P<leto>....)<' #zajamemo samo leto
+    )
+    
 nesreče = []
 for leto in range(1920, 2019):
     url = "http://www.planecrashinfo.com/{število}/{število}.htm".format(število=leto)
@@ -82,7 +91,22 @@ def zapisi_csv(slovarji, imena_polj, ime_datoteke):
 
 zapisi_csv(nesreče, ["datum", "kraj", "družbe", "model", "registracija", "žrtve/potniki"], "vsi.csv")
 
+
 števec = 1920
 while števec < 2019:
-    print("04 Apr", števec)    
+    print("04 Apr", števec)  #izpis vseh 4. Aprilov od leta 1920
     števec += 1
+
+seznam = []
+with open("kraj.json", "r", encoding="utf-8") as j:
+    vsebina = json.load(j)
+    for slovar in vsebina:
+        for place in slovar.values():
+            while place.count(",") != 0: #znebimo se specifičnih regij nesreče, tako da nam ostane le država
+                place = place[1:]
+            seznam.append(place)
+
+with open("datoteka.txt", "w", encoding="utf-8") as d:
+    for država in seznam:                      #ustvarimo datoteko z državami
+        d.write("%s\n" % država)
+    
