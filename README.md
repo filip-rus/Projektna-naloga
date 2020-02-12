@@ -14,3 +14,5 @@ Delovne hipoteze:
 * Katera letalska družba je odgovorna za največ nesreč?
 * Kakšen je najpogostejši odstotek preživelih?
 * Ali število nesreč pada z leti?
+
+Projektna naloga se nahaja v datoteki Analiza.ipynb.
